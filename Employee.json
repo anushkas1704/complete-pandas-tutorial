@@ -1,0 +1,14 @@
+{
+  "emp_details":[
+   {
+     "emp_name": "XYZ",
+     "email_id": "XYZ@gmail.com",
+     "job_profile": "Data Scientist"
+   },
+   {  
+     "emp_name": "A",
+     "email_id": "A@gmail.com",
+     "job_profile": "Manager"     
+   }     
+ ]
+}
